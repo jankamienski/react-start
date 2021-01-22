@@ -8,7 +8,6 @@ import {settings} from '../../data/dataStore';
 import Creator from '../Creator/Creator.js';
 
 
-
 class List extends React.Component {
   state = {
     columns: this.props.columns || [],
