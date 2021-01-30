@@ -5,7 +5,6 @@ import List from '../List/ListContainer.js';
 import PropTypes from 'prop-types';
 import Search from '../Search/SearchContainer.js';
 
-
 class App extends React.Component {
   static propTypes = {
     title: PropTypes.node,

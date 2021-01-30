@@ -1,5 +1,4 @@
 .vscode
-dist
 
 # Logs
 logs
@@ -71,7 +70,7 @@ typings/
 .nuxt
 
 # vuepress build output
-.vuepress/dist
+.vuepress
 
 # Serverless directories
 .serverless/
